@@ -20,6 +20,7 @@ Contents:
    tuning
    faq
    misc
+   fixme
 
 
 Indices and tables

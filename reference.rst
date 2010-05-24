@@ -6,33 +6,33 @@ Reference
 
 kumo-manager
 ------------
-FIXME
+:ref:`fixme`
 
 kumo-server
 -----------
-FIXME
+:ref:`fixme`
 
 kumo-gateway
 ------------
-FIXME
+:ref:`fixme`
 
 kumoctl
 -------
-FIXME
+:ref:`fixme`
 
 kumostat
 --------
-FIXME
+:ref:`fixme`
 
 kumotop
 -------
-FIXME
+:ref:`fixme`
 
 kumohash
 --------
-FIXME
+:ref:`fixme`
 
 kumomergedb
 -----------
-FIXME
+:ref:`fixme`
 

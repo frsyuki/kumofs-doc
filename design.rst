@@ -25,34 +25,34 @@ The semantics of the CAS operation is that "the swapping always fails if the com
 
 Network Topology
 ----------------
-FIXME
+:ref:`fixme`
 
 
 Kind of Nodes
 -------------
-FIXME
+:ref:`fixme`
 
 Server
 ~~~~~~
-FIXME
+:ref:`fixme`
 
 Gateway
 ~~~~~~~
-FIXME
+:ref:`fixme`
 
 Manager
 ~~~~~~~
-FIXME
+:ref:`fixme`
 
 
 Partitioning and Replication
 ----------------------------
-FIXME
+:ref:`fixme`
 
 Dynamic rebalancing
 -------------------
 
 http://github.com/etolabo/kumofs/issues/closed#issue/1
 
-FIXME
+:ref:`fixme`
 

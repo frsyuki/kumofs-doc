@@ -23,5 +23,5 @@ kumofs is a scalable and highly available distributed key-value store.
 
 Actual cases
 ------------
-FIXME
+:ref:`fixme`
 
