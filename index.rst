@@ -6,15 +6,25 @@
 Welcome to kumofs's documentation!
 ==================================
 
-Contents: test
+Contents:
 
 .. toctree::
    :maxdepth: 2
 
+   intro
+   design
+   install
+   howto
+   trouble
+   reference
+   tuning
+   faq
+   misc
+
+
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
+.. * :ref:`genindex`
 * :ref:`search`
 
