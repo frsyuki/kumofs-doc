@@ -19,7 +19,6 @@ Contents:
    reference
    tuning
    faq
-   misc
    fixme
 
 

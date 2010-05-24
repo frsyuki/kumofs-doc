@@ -1,5 +1,0 @@
-.. _misc:
-
-Uncategorized information
-=========================
-
