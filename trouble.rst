@@ -6,7 +6,7 @@ Troubleshooting
 kumo-servers are down
 ---------------------
 
-First, confirm that which of kumo-servers are down:
+First, confirm that which of kumo-servers are down::
 
     [       ]$ kumoctl m1 status    # m1 is address kumo-manager
     hash space timestamp:
@@ -18,10 +18,11 @@ First, confirm that which of kumo-servers are down:
       192.168.0.104:19800  (fault)
     not attached node:
 
-**(fault)** nodes are down.
+*(fault)* nodes are down.
 
 Second, reboot the host and run kumo-server. Before running kumo-server, remove database file. Otherwise deleted keys may be restored.
-The status of cluster will be as following:
+
+The status of cluster will be as following::
 
     [       ]$ kumoctl m1 status
     hash space timestamp:
@@ -34,7 +35,7 @@ The status of cluster will be as following:
     not attached node:
       192.168.0.104:19800
 
-Finally, *attach* the kumo-server:
+Finally, *attach* the kumo-server::
 
     [       ]$ kumoctl m1 attach
     [       ]$ kumoctl m1 status
